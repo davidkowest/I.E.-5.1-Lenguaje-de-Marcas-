@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoclub>
+    <pelicula>
+        <titulo>El resplandor</titulo>
+        <nacionalidad>Reino Unido</nacionalidad>
+        <productor>Warner Bros</productor>
+        <director>Stanley Kubrick</director>
+        <año>1980</año>
+        <duracion>146 min</duracion>
+        <genero>Terror</genero>
+        <sinopsis>Jack Torrance se traslada con su mujer y su hijo de siete años al impresionante hotel Overlook, en Colorado, 
+            para encargarse del mantenimiento de las instalaciones durante la temporada invernal, época en la que permanece cerrado y aislado por la nieve. 
+            Su objetivo es encontrar paz y sosiego para escribir una novela. Sin embargo, poco después de su llegada al hotel, 
+            al mismo tiempo que Jack empieza a padecer inquietantes trastornos de personalidad, 
+            se suceden extraños y espeluznantes fenómenos paranormales. (FILMAFFINITY)</sinopsis>
+        <foto ruta='carteles\el_resplandor.jpg'/>
+        <url enlace='https://www.filmaffinity.com/es/film598422.html'>Mas informacion</url>
+    </pelicula>
+    <pelicula>
+        <titulo>La naranja mecánica</titulo>
+        <nacionalidad>Reino Unido</nacionalidad>
+        <productor>Warner Bros</productor>
+        <director>Stanley Kubrick</director>
+        <año>1971</año>
+        <duracion>137 min</duracion>
+        <genero>Drama</genero>
+        <sinopsis>Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones:
+           la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando,
+           violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión,
+           se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente 
+           cualquier atisbo de conducta antisocial. (FILMAFFINITY)</sinopsis>
+        <foto ruta='carteles\naranja_mecanica.jpg'/>
+        <url enlace='https://www.filmaffinity.com/es/film745383.html'>Mas informacion</url>
+    </pelicula>
+    <pelicula>
+        <titulo>El padrino</titulo>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <productor>Paramount Pictures</productor>
+        <director>Francis Ford Coppola</director>
+        <año>1972</año>
+        <duracion>175 min</duracion>
+        <genero>Drama</genero>
+        <sinopsis>Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones:
+            la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando,
+            violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión,
+            se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente 
+            cualquier atisbo de conducta antisocial. (FILMAFFINITY)</sinopsis>
+        <foto ruta='carteles\el_padrino.jpg'/>
+        <url enlace='https://www.filmaffinity.com/es/film809297.html'>Mas informacion</url>
+    </pelicula>
+</videoclub>

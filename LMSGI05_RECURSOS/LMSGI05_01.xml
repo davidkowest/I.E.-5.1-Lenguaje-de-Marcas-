@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="LMSGI05_01.xsl"?>
+<anillas>
+    <pedidos>
+        <pedido codigo="E18-555">
+            <nombre>Pedro López Martínez</nombre>
+			<direccion>
+				<calle>Calle Ángeles de Terranova</calle>
+				<numero>2</numero>
+				<cp>04740</cp>
+				<localidad>Roquetas de Mar</localidad>
+				<provincia>ALMERÍA</provincia>
+			</direccion>
+            <anilla_inicial>10</anilla_inicial>
+            <calibre c1="1" c2="300" c3="10" c4="12" c5="1" precio="1.5"></calibre>    
+        </pedido>
+		 <pedido codigo="E22-345">
+            <nombre>Luiz Cardozo</nombre>
+			<direccion>
+				<calle>Calle Belem</calle>
+				<numero>s/n</numero>
+				<cp>1900-263</cp>
+				<localidad>Lisboa</localidad>
+				<provincia>LISBOA</provincia>
+			</direccion>
+            <anilla_inicial>94</anilla_inicial>
+            <calibre c1="40" c2="30" c3="30" c4="10" c5="10" precio="1.5"></calibre>    
+        </pedido>
+		 <pedido codigo="E18-101">
+            <nombre>Andrés López López</nombre>
+			<direccion>
+				<calle>Calle Central</calle>
+				<numero>44</numero>
+				<cp>29620</cp>
+				<localidad>Torremolinos</localidad>
+				<provincia>MÁLAGA</provincia>
+			</direccion>
+            <anilla_inicial>1</anilla_inicial>
+            <calibre c1="1" c2="3" c3="1" c4="1" c5="10" precio="1.5"></calibre>    
+        </pedido>
+		 <pedido codigo="E44-002">
+            <nombre>Lope Rodríguez Salinas</nombre>
+			<direccion>
+				<calle>Calle Mayor</calle>
+				<numero>103</numero>
+				<cp>11500</cp>
+				<localidad>El Puerto de Santa María</localidad>
+				<provincia>CÁDIZ</provincia>
+			</direccion>
+            <anilla_inicial>103</anilla_inicial>
+            <calibre c1="10" c2="13" c3="1" c4="1" c5="10" precio="1.5"></calibre>    
+        </pedido>
+	</pedidos>
+</anillas>        

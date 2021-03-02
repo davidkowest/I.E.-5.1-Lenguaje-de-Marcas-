@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="LMSGI05_02.xsl"?>
+<come>
+  <confederacion>
+    <nombre socios="783">Federación Ornitológica de Andalucía</nombre>
+    <autonomia>Andalucía</autonomia>
+    <asociaciones>
+      <asociacion socios="198">Roquetera</asociacion>
+      <asociacion socios="120">Peñón del Santo</asociacion>
+      <asociacion socios="156">Accitana</asociacion>
+	  <asociacion socios="141">Tarifeña</asociacion>
+	  <asociacion socios="168">La Macarena</asociacion>
+    </asociaciones>
+    <identificador>FOA</identificador>
+  </confederacion>  
+  <confederacion>
+    <nombre socios="143">Federación Ornitológica del Sur</nombre>
+    <autonomia>Andalucía</autonomia>
+    <asociaciones>
+      <asociacion socios="18">Huelva</asociacion>
+      <asociacion socios="50">Sevilla</asociacion>
+      <asociacion socios="36">Jaén</asociacion>
+	  <asociacion socios="11">Córdoba</asociacion>
+	  <asociacion socios="28">Granada</asociacion>
+    </asociaciones>
+    <identificador>SUR</identificador>
+  </confederacion>
+  <confederacion>
+    <nombre socios="624">Federación Ornitológica de Valencia</nombre>
+    <autonomia>Comunidad Valenciana</autonomia>
+    <asociaciones>
+      <asociacion socios="154">Fallera</asociacion>
+      <asociacion socios="350">Costense</asociacion>
+      <asociacion socios="120">Levantina</asociacion>
+    </asociaciones>
+    <identificador>FOCVA</identificador>
+  </confederacion> 
+  <confederacion>
+    <nombre socios="101">Extremadura Federación de Aves</nombre>
+    <autonomia>Extremadura</autonomia>
+    <asociaciones>
+      <asociacion socios="58">Cacereña</asociacion>
+      <asociacion socios="12">Tejeda de Tiétar</asociacion>
+      <asociacion socios="16">Santo Cristo de Serradilla</asociacion>
+	  <asociacion socios="15">Plasencia Bonita</asociacion>
+    </asociaciones>
+    <identificador>EXFA</identificador>
+  </confederacion>
+</come>
